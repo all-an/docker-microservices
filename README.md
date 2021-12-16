@@ -21,7 +21,7 @@ docker run --name auth-db -p 5432:5432 -e POSTGRES_DB=auth-db -e POSTGRES_USER=a
 Banco de dados de produtos:
 
 ```sh
-docker run --name product-db -p 5433:5432 -e POSTGRES_DB=aproduct-db -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=123456 postgres:11
+docker run --name product-db -p 5433:5432 -e POSTGRES_DB=product-db -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=123456 postgres:11
 ```
 
 Visualiza containers:
@@ -29,3 +29,20 @@ Visualiza containers:
 ```sh
 docker ps
 ```
+
+```sh
+docker container inspect <container> 
+```
+Visualiza volumes:
+
+```sh
+docker volume ls
+```
+Remove volume:
+
+```sh
+docker volume rm <volume>
+```
+
+
+
