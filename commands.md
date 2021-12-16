@@ -5,3 +5,10 @@ docker run --name product-db -p 5433:5432 -e POSTGRES_DB=aproduct-db -e POSTGRES
 
 docker ps 
 
+Stack utilizada:
+Docker version 20.10.11, build dea9396
+PostgreSQL 11
+MongoDB 2.6
+MongoDB Shell 1.1.7
+DBeaver 21.3.1
+
