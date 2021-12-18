@@ -87,7 +87,15 @@ user:guest
 password:guest
 ```
 
+#### auth-api package json
 
+```sh
+yarn init -y
+yarn add express
+yarn add cors
+yarn add jsonwebtoken
+
+```
 
 
 
