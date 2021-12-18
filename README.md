@@ -1,5 +1,11 @@
 # Java, Spring, Docker e Microserviços
 
+<p align="center">
+        <a href="https://www.linkedin.com/in/all-an/">
+            <img align="center" width="397" height="425"  src="/docker.png" />
+        </a>
+</p>
+
 ## Projeto Java Spring APIs com Docker, comunicação entre Microserviços, PostgreSQL, MongoDB, RabbitMQ e Javascript 
 
 <p align="center">
@@ -9,6 +15,10 @@
 </p>
 
 ### Stack utilizada:
+- Java 11
+- Spring
+- Javascript
+- Express
 - Docker version 20.10.11, build dea9396
 - PostgreSQL 11
 - MongoDB 2.6
