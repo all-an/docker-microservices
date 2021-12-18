@@ -1,4 +1,4 @@
- <p align="center" style="color:white;font-size:50px;"> Java, Spring, Docker e Microserviços </p>
+ <p style="font-size:50px" align="center" > Java, Spring, Docker e Microserviços </p>
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
