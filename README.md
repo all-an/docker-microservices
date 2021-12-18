@@ -9,20 +9,20 @@
 </p>
 
 ### Stack utilizada:
-Docker version 20.10.11, build dea9396
-PostgreSQL 11
-MongoDB 2.6
-MongoDB Shell 1.1.7
-DBeaver 21.3.1
+- Docker version 20.10.11, build dea9396
+- PostgreSQL 11
+- MongoDB 2.6
+- MongoDB Shell 1.1.7
+- DBeaver 21.3.1
 
 #### Spring dependencies:
-Spring Boot DevTools
-Lombok
-Spring Web
-Spring Data JPA
-PostgreSQL Driver 
-Spring for RabbitMQ
-OpenFeign
+- Spring Boot DevTools
+- Lombok
+- Spring Web
+- Spring Data JPA
+- PostgreSQL Driver 
+- Spring for RabbitMQ
+- OpenFeign
 
 ## Instalação
 
