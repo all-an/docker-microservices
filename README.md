@@ -1,6 +1,6 @@
-# Java, Docker e Microserviços
+# Java, Spring, Docker e Microserviços
 
-## Projeto Java APIs com Docker, comunicação entre Microserviços, PostgreSQL, MongoDB, RabbitMQ e Javascript 
+## Projeto Java Spring APIs com Docker, comunicação entre Microserviços, PostgreSQL, MongoDB, RabbitMQ e Javascript 
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
@@ -14,6 +14,15 @@ PostgreSQL 11
 MongoDB 2.6
 MongoDB Shell 1.1.7
 DBeaver 21.3.1
+
+#### Spring dependencies:
+Spring Boot DevTools
+Lombok
+Spring Web
+Spring Data JPA
+PostgreSQL Driver 
+Spring for RabbitMQ
+OpenFeign
 
 ## Instalação
 
