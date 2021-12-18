@@ -8,6 +8,13 @@
         </a>
 </p>
 
+### Stack utilizada:
+Docker version 20.10.11, build dea9396
+PostgreSQL 11
+MongoDB 2.6
+MongoDB Shell 1.1.7
+DBeaver 21.3.1
+
 ## Instalação
 
 Instalando Postgres no Docker:
