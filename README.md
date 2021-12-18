@@ -38,6 +38,13 @@
 - Spring for RabbitMQ
 - OpenFeign
 
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#using-boot-devtools)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#boot-features-developing-web-applications)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+* [Spring for RabbitMQ](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#boot-features-amqp)
+* [OpenFeign](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/)
+
+
 ## Instalação
 
 Instalando Postgres no Docker:
