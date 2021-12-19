@@ -1,6 +1,6 @@
 import express from "express";
 
-import * as db from "../scr/config/db/initialData";
+import * as db from "./scr/config/db/initialData.js";
 
 const app = express();
 const env = process.env;
