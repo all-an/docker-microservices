@@ -6,7 +6,7 @@
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
-            <img align="center" width="716" height="688"  src="/docker.png" />
+            <img align="center" width="344" height="342"  src="/docker.png" />
         </a>
 </p>
 
