@@ -121,7 +121,24 @@ yarn add jsonwebtoken
 
 ```
 
+#### Rodando docker-compose build
+```sh
+para o primeiro build ou builds posteriores:
+docker-compose up --build
 
+depois:
+docker-compose up
+```
+
+#### Verificando bancos de dados rodando
+```sh
+docker logs --follow <nome do container>
+```
+
+#### Parando, derrubando todos os containers
+```sh
+docker kill $(docker ps -q)
+```
 
 
 
