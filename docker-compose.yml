@@ -3,7 +3,7 @@ services:
 
   auth-db:
     image: postgres:11 
-    container-name: auth-db
+    container_name: auth-db
     restart: always
     environment: 
       - POSTGRES_DB=auth-db
@@ -13,19 +13,19 @@ services:
       - 5432:5432
 
   product-db:
-  image: postgres:11 
-  container-name: product-db
-  restart: always
-  environment: 
-    - POSTGRES_DB=product-db
-    - POSTGRES_USER=admin
-    - POSTGRES_PASSWORD=123456
-  ports:
-    - 5433:5432
+    image: postgres:11 
+    container_name: product-db
+    restart: always
+    environment: 
+      - POSTGRES_DB=product-db
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=123456
+    ports:
+      - 5433:5432
 
   sales-db:
     image: tutum/mongodb 
-    container-name: sales-db
+    container_name: sales-db
     restart: always
     environment: 
       - MONGODB_USER="admin"
@@ -37,7 +37,7 @@ services:
 
   sales_rabbit: 
     image: rabbitmq:3-management
-    container-name: sales-rabbit
+    container_name: sales_rabbit
     ports:
       - 5672:5672
       - 25676:25676
