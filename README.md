@@ -111,7 +111,7 @@ user:guest
 password:guest
 ```
 
-#### auth-api package json
+#### auth-api / sales-api
 
 ```sh
 yarn init -y
