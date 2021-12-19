@@ -1,6 +1,6 @@
  <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
-            <img align="center" width="602" height="102"  src="/title-md.png" />
+            <img align="center" width="781" height="76"  src="/title-md.png" />
         </a>
 </p>
 
