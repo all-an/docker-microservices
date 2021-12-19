@@ -14,7 +14,7 @@
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
-            <img align="center" width="804" height="444"  src="/diagrama.png" />
+            <img align="center" width="460" height="720"  src="/diagrama.png" />
         </a>
 </p>
 
