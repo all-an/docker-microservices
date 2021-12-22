@@ -1,4 +1,4 @@
-import User from "../model/User";
+import User from "../model/User.js";
 
 class UserRepository{
 
@@ -11,7 +11,7 @@ class UserRepository{
         }
     }
 
-    async findEmail(email){
+    async findByEmail(email){
         try {
             return await User.findOne({ where: { email } })
         } catch (err) {
@@ -21,4 +21,4 @@ class UserRepository{
     }
 }
 
-export default UserRepository();
+export default new UserRepository();
