@@ -1,8 +1,4 @@
- <p align="center">
-        <a href="https://www.linkedin.com/in/all-an/">
-            <img align="center" width="781" height="76"  src="/title-md.png" />
-        </a>
-</p>
+
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
@@ -10,7 +6,7 @@
         </a>
 </p>
 
-## Projeto Java Spring APIs com Docker, comunicação entre Microserviços, PostgreSQL, MongoDB, RabbitMQ e Javascript 
+## Projeto Java Spring APIs com Docker, comunicação entre Microsserviços, PostgreSQL, MongoDB, RabbitMQ e Javascript 
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
