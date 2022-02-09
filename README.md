@@ -15,7 +15,7 @@
 </p>
 
 ### Stack utilizada:
-- Java 11.00
+- Java 11.0
 - Spring
 - Javascript
 - Express
