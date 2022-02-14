@@ -14,7 +14,7 @@
         </a>
 </p>
 
-### Stack utilizada:
+### Stack utilizada :
 - Java 11
 - Spring
 - Javascript
