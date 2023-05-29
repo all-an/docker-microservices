@@ -14,13 +14,13 @@
         </a>
 </p>
 
-<<<<<<< HEAD
+
 ### Stack utilizada :
 - Java 11
-=======
+
 ### Stack utilizada:
 - Java 11.0
->>>>>>> 769c274f058d400b15f7fc7961da9322fca70cf1
+
 - Spring
 - Javascript
 - Express
