@@ -19,7 +19,11 @@ docker run --name sales-db -p 27017:27017 -p 28017:28017 -e MONGODB_USER="admin"
 
 -----------
 
-mongodb wsl on terminal
+connect to mongodb on windows through command
+
+mongosh
+
+connect mongodb wsl on terminal
 mongo "mongodb://admin:123456@localhost:27017/sales"
 
 docker start <container-name>

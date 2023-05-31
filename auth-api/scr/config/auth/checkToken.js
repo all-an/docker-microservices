@@ -14,7 +14,7 @@ export default async (req, res, next) => {
     if (!authorization) {
       throw new AuthException(
         httpStatus.UNAUTHORIZED,
-        "Access token was not informed."
+        "Access token was not informed. Please inform an access token."
       );
     }
     let accessToken = authorization;

@@ -16,11 +16,8 @@
 
 
 ### Stack utilizada :
-- Java 11
 
-### Stack utilizada:
-- Java 11.0
-
+- Java 17
 - Spring
 - Javascript
 - Express
