@@ -1,4 +1,4 @@
-FROM gradle:7.0.0-jdk11
+FROM gradle:8.1.1-jdk17
 COPY --chown=gradle:gradle . .
 WORKDIR .
 COPY package*.json ./

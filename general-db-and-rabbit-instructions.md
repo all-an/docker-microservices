@@ -19,6 +19,10 @@ connect to mongodb on windows through command
 
 mongosh
 
+db.sales.insert({"id":123, "name":"Test"})
+
+db.sales.find()
+
 -------------------------
 
 access rabbit on browser
