@@ -39,7 +39,7 @@ class UserService {
 
   validateUserNotFound(user) {
     if (!user) {
-      throw new UserException(httpStatus.BAD_REQUEST, "User was not found.");
+      throw new UserException(httpStatus.BAD_REQUEST, "User was not found. ");
     }
   }
 
